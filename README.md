@@ -18,7 +18,7 @@ View the documentation here: [https://fanbase-io.gitbook.io/docs/reference/swap-
 
 ![PM-3](https://github.com/FanbaseLabs/React-Aggregate-ERC20-Swap/assets/145924938/58fb1d00-438f-494d-9c18-53dbc6549c1d)
 
-
+## NextJS Environment
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 First, run the development server:
 
