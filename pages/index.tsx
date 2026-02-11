@@ -1,5 +1,4 @@
 import type { NextPage } from "next";
-import styles from "../styles/Home.module.css";
 import dynamic from "next/dynamic"
 
 const AggregationCryptoExchangeWidget = dynamic(() => import('fanbase-aggregate-erc20-swap-widget'), { ssr: false })
